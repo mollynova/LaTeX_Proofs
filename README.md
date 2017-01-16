@@ -1,4 +1,4 @@
-\t# LaTeX_Proofs
+LaTeX_Proofs
 Simple discrete math proofs powered by LaTeX
 
 Sample of 4 simple discrete math proofs written with laTeX.
